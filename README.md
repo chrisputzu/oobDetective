@@ -1,2 +1,2 @@
 # oobDetective
-This Python project implements real-time object detection using OpenCV and TensorFlow Lite Interpreter. It provides a simple script utilizing pre-trained models for efficient object detection, deal for edge devices and embedded systems.
+This project is an implementation of object detection in Python, leveraging the power of OpenCV (Open Source Computer Vision Library) and TensorFlow Lite Interpreter. Object detection is a computer vision task that involves identifying and locating objects within an image or video. In this repository, we provide a Python script that utilizes pre-trained models from TensorFlow Lite to perform real-time object detection.
